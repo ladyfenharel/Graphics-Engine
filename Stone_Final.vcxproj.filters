@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Source\MainCode.cpp" />
+    <ClCompile Include="Source\SceneManager.cpp" />
+    <ClCompile Include="Source\ViewManager.cpp" />
+    <ClCompile Include="..\..\Utilities\ShaderManager.cpp">
+      <Filter>Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3DShapes\ShapeMeshes.cpp">
+      <Filter>Utilities\3DShapes</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Source\SceneManager.h" />
+    <ClInclude Include="Source\ViewManager.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Utilities">
+      <UniqueIdentifier>{459ceae0-c6ef-44a5-8631-83a6a18724c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utilities\3DShapes">
+      <UniqueIdentifier>{eee697db-c0f0-4a12-a29d-b6c222512c6e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
