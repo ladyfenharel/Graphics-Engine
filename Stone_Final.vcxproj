@@ -27,7 +27,7 @@
     <ProjectGuid>{fec5411d-16fc-4489-be83-8f69cd3c9837}</ProjectGuid>
     <RootNamespace>OpenGLSample</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>FinalStone</ProjectName>
+    <ProjectName>Stone_Final</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
