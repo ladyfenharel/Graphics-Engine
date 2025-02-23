@@ -1,4 +1,6 @@
-# CS-330 Final Project
+# CS-330 - Computer Graphics - Final Project
+
+![A screenshot of the scene created with a potion bottle, spell book, and candle.](https://github.com/user-attachments/assets/79d8610a-2410-40ad-8ae3-5b0e11928051)
 
 ## How do I approach designing software?
 I start by identifying the problem, breaking it down into manageable pieces, and creating a plan that integrates user needs with technical feasibility. Iteration is key, ensuring I continuously refine my design to meet requirements and improve functionality.
@@ -14,6 +16,9 @@ By focusing on user feedback early and iterating quickly, I can create more adap
 
 ## How do I approach developing programs?
 I approach development by breaking the problem into smaller, testable parts and writing clean, modular code. I prioritize clarity and functionality, testing each component as I build.
+
+![A screenshot of the scene from a different angle, created with a potion bottle, spell book, and candle.](https://github.com/user-attachments/assets/f7642655-7f89-489a-9c05-0d1c592b0a1b)
+
 
 ## What new development strategies did you use while working on your 3D scene?
 I used object-oriented programming and modular design to manage the complexity of the 3D scene. Optimizing performance was key, using efficient algorithms for rendering and collision detection.
